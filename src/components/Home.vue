@@ -61,7 +61,7 @@
                         </div>
                       </div> 
                       <div class="v-card__text">
-                        Administre e verba e declare gastos de forma simples e prática! Com nossa interface os gráficos são gerados em tempo real e as notas fiscais ficam armazenadas na nuvem, assim todos posdem acompanhar os gastos e resultados de forma públia e transparente.
+                        Administre sua verba e declare gastos de forma simples e prática! Com nossa interface os gráficos são gerados em tempo real e as notas fiscais ficam armazenadas na nuvem, assim todos podem acompanhar os gastos e resultados de forma pública e transparente.
                       </div>
                     </div>
                   </div> 
