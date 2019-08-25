@@ -7,7 +7,7 @@
 
       <v-toolbar-items>
         <v-btn text>Sobre nós</v-btn>
-        <v-btn text>Login</v-btn>
+        <v-btn text to="/login" exact>Login</v-btn>
       </v-toolbar-items>
 
     </v-toolbar>

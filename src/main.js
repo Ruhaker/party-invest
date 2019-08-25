@@ -5,7 +5,7 @@ import App from './App.vue'
 import vuetify from './plugins/vuetify'
 import VueRouter from 'vue-router';
 import Home from './components/Home';
-import Profile from './components/Profile.vue';
+import Login from './components/Login.vue';
 import FindInvestor from './components/FindInvestor.vue';
 import FindProject from './components/FindProject.vue';
 
@@ -17,7 +17,7 @@ Vue.use(VueRouter)
 
 const routes = [
     { path: '/', component: Home },
-    { path: '/profile', component: Profile },
+    { path: '/login', component: Login },
     { path: '/FindInvestor', component: FindInvestor },
     { path: '/FindProject', component: FindProject },
 			

@@ -20,7 +20,7 @@
                 ></v-text-field>
               </v-card-text>
               <v-card-actions>
-                <router-link to="/profile">
+                <router-link to="/">
                   <v-btn text>Enter</v-btn>
                 </router-link>
               </v-card-actions>
@@ -35,7 +35,7 @@
 <script>
 
 export default {
-  name: 'Profile',
+  name: 'Login',
   data: () => ({
     //
   }),
