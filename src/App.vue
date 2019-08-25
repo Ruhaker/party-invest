@@ -13,7 +13,7 @@ export default {
 </script>
 
 <style>
-  .v-content{
+  body{
     background-color: #03a5fc;
   }
   #white{
