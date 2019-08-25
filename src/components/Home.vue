@@ -10,17 +10,17 @@
               <h1 class="white--text mb-2 display-1 text-center">
               Conectando empresas à pesquisa e extensão
               </h1>
-              <div class="subheading mb-4 text-center">
+              <h2 class="subheading mb-4 text-center">
               Construa mais junto com o incentivo privado
-              </div>
+              </h2>
               <div class="">
-                <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large blue lighten-2">
+                <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large orange lighten-2">
                 <span class="v-btn__content">
                 Registre-se como financiad@
                 </span>
                 </a>
                 &nbsp;
-                <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large blue lighten-2">
+                <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large green lighten-2">
                 <span class="v-btn__content">
                 Registre-se como financiad@r
                 </span>
