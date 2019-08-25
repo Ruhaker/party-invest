@@ -2,6 +2,7 @@
   <v-app>
     <v-content>
       <NavBar/>
+      <Footer/>
     </v-content>
   </v-app>
      
@@ -10,7 +11,6 @@
 <script>
 import NavBar from './NavBar';
 import Footer from './Footer';
-
 
 export default {
   name: 'Profile',

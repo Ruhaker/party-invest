@@ -124,9 +124,7 @@
               </center>
               <div style="padding-bottom: 50px"></div>
             </div>
-            
           </div>
-        </div>
       </section>
       <Footer />
     </v-content>

@@ -3,16 +3,8 @@
 </template>
 
 <script>
-import Footer from './components/Footer';
-import NavBar from './components/NavBar';
-import Home from './components/Home'
 export default {
   name: 'App',
-  components: {
-    NavBar,
-    Footer,
-    Home
-  },
   data: () => ({
     //
   }),
