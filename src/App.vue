@@ -99,7 +99,7 @@
         </div>
       </section>
       <section id="white">
-        <div class="v-parallax" style="height: 400px;">
+        <div class="v-parallax" style="height: 500px;">
           <div class="v-parallax__content">
             <div class="layout column align-center justify-center">
               <h1 class="black--text mb-2 display-1 text-center">
@@ -108,6 +108,21 @@
               <center>
                 <img src="./assets/empresas_logo.png">
               </center>
+            </div>
+              <h1 class="black--text mb-2 display-1 text-center">
+                Conecte-se com nós
+              </h1>
+              &nbsp;
+              <center>
+              <a href="https://github.com/Ruhaker/party-invest">
+              <img border="0" alt="W3Schools" src="./assets/github_icon.png" width="75" height="75">
+              </a>
+              &nbsp;&nbsp;&nbsp;<img border="0" alt="W3Schools" src="./assets/facebook_icon.png" width="75" height="75"> &nbsp;&nbsp;&nbsp;
+              <img border="0" alt="W3Schools" src="./assets/twiter_icon.png" width="75" height="75"> &nbsp;&nbsp;&nbsp;
+              <img border="0" alt="W3Schools" src="./assets/youtube_icon.png" width="75" height="75"> &nbsp;&nbsp;&nbsp;
+              <img border="0" alt="W3Schools" src="./assets/linkedin_icon.png" width="75" height="75"> &nbsp;&nbsp;&nbsp;
+              </center>
+              <div style="padding-bottom: 50px"></div>
             </div>
           </div>
         </div>
