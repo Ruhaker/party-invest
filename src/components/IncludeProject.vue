@@ -2,7 +2,10 @@
   <v-app>
     <v-content>
       <NavBarLogged />
-        Inclusão de projetos
+      <div id="white">
+        <center><h1 style="padding-top: 50px">Inclusão de projetos</h1></center>
+        <img src="../assets/detalhes_projeto.png">    
+      </div>
     </v-content>
   </v-app>
 </template>

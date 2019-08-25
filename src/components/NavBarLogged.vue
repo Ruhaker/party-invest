@@ -26,7 +26,9 @@
               :key="index"
               v-onclick=""
             >
+            <v-btn text to="/includeproject">
               <v-list-item-title>{{ item.title }}</v-list-item-title>
+            </v-btn>
             </v-list-item>
           </v-list>
         </v-menu>

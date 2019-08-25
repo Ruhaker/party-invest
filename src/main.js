@@ -9,6 +9,8 @@ import Login from './components/Login.vue';
 import Profile from './components/Profile.vue';
 import FindInvestor from './components/FindInvestor.vue';
 import FindProject from './components/FindProject.vue';
+import Sponsors from './components/Sponsors.vue'
+import IncludeProject from './components/IncludeProject.vue'
 
 // import routes from './routes';
 
@@ -22,6 +24,8 @@ const routes = [
     { path: '/profile', component: Profile },
     { path: '/FindInvestor', component: FindInvestor },
     { path: '/FindProject', component: FindProject },
+    { path: '/Sponsors', component: Sponsors },
+    { path: '/IncludeProject', component: IncludeProject }
 			
 ];
 console.log('passou aqui')
