@@ -21,7 +21,7 @@
               </v-card-text>
               <v-card-actions>
                 <router-link to="/profile">
-                  <v-btn text>Enter</v-btn>
+                  <v-btn text>Entrar</v-btn>
                 </router-link>
               </v-card-actions>
             </v-card>

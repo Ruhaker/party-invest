@@ -7,7 +7,7 @@
           <div class="v-parallax__content">
             <div class="layout white--text column align-center justify-center">
               <h1 class="white--text mb-2 display-1 text-center">
-              Encontre um patrocíneo
+              Encontre um patrocínio
               </h1>
             </div>
           </div>

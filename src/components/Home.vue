@@ -11,7 +11,7 @@
               Conectando empresas à pesquisa e extensão
               </h1>
               <h2 class="subheading mb-4 text-center">
-              Construa mais junto com o incentivo privado
+              Construa mais com o incentivo privado
               </h2>
               <div class="">
                 <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large orange lighten-2">
