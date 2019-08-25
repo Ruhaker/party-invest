@@ -22,126 +22,127 @@
               <th style="width:60%;">Tags</th>
               <th style="width:10%;">Avaliação</th>
           </tr>
-         <tr>
-          <td>Cobli</td>
-          <td><p class="tag">Química</p> <p class="tag">C++</p> <p class="tag">Esporte</p> <p class="tag">Mobilidade</p> <p class="tag">C</p> <p class="tag">UFMA <p class="tag">UFF</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Ipiranga</td>
-          <td><p class="tag">IoT</p> <p class="tag">Extensão</p> <p class="tag">Física</p> <p class="tag">História</p> <p class="tag">Arte</p> <p class="tag">UFPR <p class="tag">UFRJ</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Nubank</td>
-          <td><p class="tag">Python</p> <p class="tag">C</p> <p class="tag">Física</p> <p class="tag">Mobilidade</p> <p class="tag">Educação</p> <p class="tag">UFMA <p class="tag">UFPE</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Neon</td>
-          <td><p class="tag">Biologia</p> <p class="tag">Extensão</p> <p class="tag">Python</p> <p class="tag">Química</p> <p class="tag">Arte</p> <p class="tag">UFPR <p class="tag">UFRJ</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Facebook</td>
-          <td><p class="tag">Evento</p> <p class="tag">Computação</p> <p class="tag">C++</p> <p class="tag">Doenças</p> <p class="tag">Desenvolvimento</p> <p class="tag">UNESP <p class="tag">UFCE</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Vtex</td>
-          <td><p class="tag">Competição</p> <p class="tag">C</p> <p class="tag">Química</p> <p class="tag">Biologia</p> <p class="tag">Computação</p> <p class="tag">UFSM <p class="tag">UNESP</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>B2W</td>
-          <td><p class="tag">Saúde</p> <p class="tag">Química</p> <p class="tag">Machine learning</p> <p class="tag">História</p> <p class="tag">Octave</p> <p class="tag">USP <p class="tag">UNESP</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Ifood</td>
-          <td><p class="tag">Educação</p> <p class="tag">Mobilidade</p> <p class="tag">Saúde</p> <p class="tag">Engenharia</p> <p class="tag">Simulação</p> <p class="tag">UFMG <p class="tag">UFPE</p> </p></td>
-          <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Uber</td>
-          <td><p class="tag">Mobilidade</p> <p class="tag">Extensão</p> <p class="tag">Geografia</p> <p class="tag">Computação</p> <p class="tag">Biologia</p> <p class="tag">UFCE <p class="tag">UFCE</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Grin</td>
-          <td><p class="tag">Psicologia</p> <p class="tag">Biologia</p> <p class="tag">Mobilidade</p> <p class="tag">Octave</p> <p class="tag">Esporte</p> <p class="tag">UFSM <p class="tag">UFMA</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Manaus SA</td>
-          <td><p class="tag">Biologia</p> <p class="tag">Ciência</p> <p class="tag">Competição</p> <p class="tag">Maratona</p> <p class="tag">Python</p> <p class="tag">UFMA <p class="tag">UFF</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Pernambucanas</td>
-          <td><p class="tag">IoT</p> <p class="tag">História</p> <p class="tag">Educação</p> <p class="tag">Psicologia</p> <p class="tag">Ciência</p> <p class="tag">UFSM <p class="tag">UFAM</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Açaí</td>
-          <td><p class="tag">Evento</p> <p class="tag">Desenvolvimento</p> <p class="tag">Computação</p> <p class="tag">IoT</p> <p class="tag">Saúde</p> <p class="tag">USP <p class="tag">UFPR</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Lenovo</td>
-          <td><p class="tag">Esporte</p> <p class="tag">Extensão</p> <p class="tag">Engenharia</p> <p class="tag">Educação</p> <p class="tag">Ciência</p> <p class="tag">UFRJ <p class="tag">UFMA</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Leve</td>
-          <td><p class="tag">Python</p> <p class="tag">C++</p> <p class="tag">Mobilidade</p> <p class="tag">Simulação</p> <p class="tag">Geografia</p> <p class="tag">UFSM <p class="tag">USP</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Curiosos</td>
-          <td><p class="tag">Ciência</p> <p class="tag">Evento</p> <p class="tag">Desenvolvimento</p> <p class="tag">Mobilidade</p> <p class="tag">Física</p> <p class="tag">UFSCAR <p class="tag">UFSM</p> </p></td>
-          <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Coursera</td>
-          <td><p class="tag">IoT</p> <p class="tag">Educação</p> <p class="tag">Mobilidade</p> <p class="tag">Matemática</p> <p class="tag">Engenharia</p> <p class="tag">UFCE <p class="tag">UFAM</p> </p></td>
-          <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Udemy</td>
-          <td><p class="tag">C++</p> <p class="tag">IoT</p> <p class="tag">Saúde</p> <p class="tag">Arte</p> <p class="tag">Física</p> <p class="tag">UFAM <p class="tag">UNESP</p> </p></td>
-          <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Udacity</td>
-          <td><p class="tag">Doenças</p> <p class="tag">Física</p> <p class="tag">IoT</p> <p class="tag">Maratona</p> <p class="tag">Evento</p> <p class="tag">UFSM <p class="tag">UNESP</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Mercurial</td>
-          <td><p class="tag">Maratona</p> <p class="tag">Machine learning</p> <p class="tag">História</p> <p class="tag">Extensão</p> <p class="tag">C</p> <p class="tag">UFRJ <p class="tag">UFSCAR</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Adidas</td>
-          <td><p class="tag">Maratona</p> <p class="tag">Esporte</p> <p class="tag">Química</p> <p class="tag">Geografia</p> <p class="tag">Doenças</p> <p class="tag">UFAM <p class="tag">UFCE</p> </p></td>
-          <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Coca Cola</td>
-          <td><p class="tag">Competição</p> <p class="tag">C</p> <p class="tag">Simulação</p> <p class="tag">Desenvolvimento</p> <p class="tag">C++</p> <p class="tag">UFPR <p class="tag">UFSCAR</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Burger King</td>
-          <td><p class="tag">Extensão</p> <p class="tag">Evento</p> <p class="tag">Octave</p> <p class="tag">Machine learning</p> <p class="tag">Geografia</p> <p class="tag">UFSM <p class="tag">UFSCAR</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
-        <tr>
-          <td>Facebook</td>
-          <td><p class="tag">Psicologia</p> <p class="tag">Geografia</p> <p class="tag">Matemática</p> <p class="tag">Mobilidade</p> <p class="tag">Extensão</p> <p class="tag">UFMG <p class="tag">UFSM</p> </p></td>
-          <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
-        </tr>
+                   <tr>
+            <td>B2W</td>
+            <td><p class="tag">Doenças </p> <p class="tag">Física </p> <p class="tag">Matemática </p> <p class="tag">C++ </p> <p class="tag">Esporte </p> <p class="tag">UNICAMP <p class="tag">UFPR</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Ipiranga</td>
+            <td><p class="tag">Ciências </p> <p class="tag">Simulação </p> <p class="tag">Doenças </p> <p class="tag">Computação </p> <p class="tag">Python </p> <p class="tag">UNICAMP <p class="tag">UFSCAR</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Nubank</td>
+            <td><p class="tag">Desenvolvimento </p> <p class="tag">Interdisciplinar </p> <p class="tag">Simulação </p> <p class="tag">Mobilidade </p> <p class="tag">Doenças </p> <p class="tag">UFSM <p class="tag">UFMA</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Neon</td>
+            <td><p class="tag">Física </p> <p class="tag">Simulação </p> <p class="tag">Desenvolvimento </p> <p class="tag">Doenças </p> <p class="tag">Maratona </p> <p class="tag">UFSCAR <p class="tag">UFSM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Facebook</td>
+            <td><p class="tag">Extensão </p> <p class="tag">Física </p> <p class="tag">Desenvolvimento </p> <p class="tag">Engenharia </p> <p class="tag">Competição </p> <p class="tag">UFSM <p class="tag">UNICAMP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Vtex</td>
+            <td><p class="tag">Octave </p> <p class="tag">Competição </p> <p class="tag">Psicologia </p> <p class="tag">Maratona </p> <p class="tag">Interdisciplinar </p> <p class="tag">UFMG <p class="tag">UNICAMP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Cobli</td>
+            <td><p class="tag">C++ </p> <p class="tag">Simulação </p> <p class="tag">Extensão </p> <p class="tag">Matemática </p> <p class="tag">Arte </p> <p class="tag">UFMG <p class="tag">UFSCAR</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Ifood</td>
+            <td><p class="tag">Saúde </p> <p class="tag">Educação </p> <p class="tag">Psicologia </p> <p class="tag">Competição </p> <p class="tag">Machine learning </p> <p class="tag">UFMA <p class="tag">UFPE</p> </p></td>
+            <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Uber</td>
+            <td><p class="tag">Python </p> <p class="tag">História </p> <p class="tag">Interdisciplinar </p> <p class="tag">Octave </p> <p class="tag">Física </p> <p class="tag">UNESP <p class="tag">UNICAMP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Grin</td>
+            <td><p class="tag">Química </p> <p class="tag">Biologia </p> <p class="tag">Interdisciplinar </p> <p class="tag">Doenças </p> <p class="tag">Extensão </p> <p class="tag">UFF <p class="tag">UFPE</p> </p></td>
+            <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Manaus SA</td>
+            <td><p class="tag">IoT </p> <p class="tag">Física </p> <p class="tag">Desenvolvimento </p> <p class="tag">História </p> <p class="tag">C++ </p> <p class="tag">UFPR <p class="tag">UFSM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Pernambucanas</td>
+            <td><p class="tag">Mobilidade </p> <p class="tag">História </p> <p class="tag">Química </p> <p class="tag">Machine learning </p> <p class="tag">Arte </p> <p class="tag">UFPR <p class="tag">UFRJ</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Açaí</td>
+            <td><p class="tag">Educação </p> <p class="tag">Arte </p> <p class="tag">C </p> <p class="tag">História </p> <p class="tag">Interdisciplinar </p> <p class="tag">UFPE <p class="tag">UNESP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Lenovo</td>
+            <td><p class="tag">Física </p> <p class="tag">Simulação </p> <p class="tag">Machine learning </p> <p class="tag">C++ </p> <p class="tag">Extensão </p> <p class="tag">UFPE <p class="tag">UFRJ</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Leve</td>
+            <td><p class="tag">Desenvolvimento </p> <p class="tag">Física </p> <p class="tag">IoT </p> <p class="tag">História </p> <p class="tag">Computação </p> <p class="tag">UFMA <p class="tag">UFSM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Curiosos</td>
+            <td><p class="tag">Interdisciplinar </p> <p class="tag">Python </p> <p class="tag">Extensão </p> <p class="tag">C </p> <p class="tag">Machine learning </p> <p class="tag">UFPE <p class="tag">UFSM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Coursera</td>
+            <td><p class="tag">Evento </p> <p class="tag">Mobilidade </p> <p class="tag">Doenças </p> <p class="tag">Interdisciplinar </p> <p class="tag">Química </p> <p class="tag">UFPE <p class="tag">UFMG</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Udemy</td>
+            <td><p class="tag">Física </p> <p class="tag">Maratona </p> <p class="tag">Desenvolvimento </p> <p class="tag">Biologia </p> <p class="tag">Evento </p> <p class="tag">UFMA <p class="tag">USP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Udacity</td>
+            <td><p class="tag">Machine learning </p> <p class="tag">Psicologia </p> <p class="tag">Esporte </p> <p class="tag">Computação </p> <p class="tag">Simulação </p> <p class="tag">UFF <p class="tag">UFPR</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Mercurial</td>
+            <td><p class="tag">C++ </p> <p class="tag">Psicologia </p> <p class="tag">Saúde </p> <p class="tag">IoT </p> <p class="tag">Matemática </p> <p class="tag">UFPE <p class="tag">UFAM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Adidas</td>
+            <td><p class="tag">Arte </p> <p class="tag">Psicologia </p> <p class="tag">Simulação </p> <p class="tag">Octave </p> <p class="tag">Biologia </p> <p class="tag">UFAM <p class="tag">UNICAMP</p> </p></td>
+            <td colspasn = 4><img src="../assets/star1.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Coca Cola</td>
+            <td><p class="tag">Extensão </p> <p class="tag">Saúde </p> <p class="tag">Interdisciplinar </p> <p class="tag">Mobilidade </p> <p class="tag">Matemática </p> <p class="tag">UFMA <p class="tag">UFRJ</p> </p></td>
+            <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Burger King</td>
+            <td><p class="tag">Competição </p> <p class="tag">Psicologia </p> <p class="tag">Engenharia </p> <p class="tag">Octave </p> <p class="tag">Mobilidade </p> <p class="tag">UFMG <p class="tag">UFSM</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+          <tr>
+            <td>Facebook</td>
+            <td><p class="tag">Educação </p> <p class="tag">Evento </p> <p class="tag">Ciências </p> <p class="tag">Geografia </p> <p class="tag">Desenvolvimento </p> <p class="tag">UFSCAR <p class="tag">UFSCAR</p> </p></td>
+            <td colspasn = 4><img src="../assets/star2.png" height="15"></td>
+          </tr>
+
         </table>
       </section>
       <Footer/>
@@ -183,8 +184,7 @@ function Search() {
 }
 function SearchMe() {
   var filter, table, tr, td, i, j, txtValue, bool;
-  filter = ['USP','UFMG']
-  
+  filter = ['USP','CIÊNCIAS', 'INTERDISCIPLINAR', 'BIOLOGIA']
   table = document.getElementById("myTable");
   tr = table.getElementsByTagName("tr");
   
