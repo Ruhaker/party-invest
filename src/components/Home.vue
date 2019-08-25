@@ -110,7 +110,7 @@
               </center>
             </div>
               <h1 class="black--text mb-2 display-1 text-center">
-                Conecte-se com nós
+                Conecte-se conosco
               </h1>
               &nbsp;
               <center>
