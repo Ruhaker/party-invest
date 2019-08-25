@@ -26,7 +26,8 @@ const routes = [
 ];
 console.log('passou aqui')
 const router = new VueRouter({routes});
-	
+
+export default router;
 
 new Vue({
   vuetify,
