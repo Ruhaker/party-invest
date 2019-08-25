@@ -24,7 +24,7 @@
           </tr>
           <tr>
             <td>Cobli</td>
-            <td>Extensão, Engenharia, Geografia, Esporte, Mobilidade, UFSM, UNESP</td>
+            <td><a class="tag">Extensão</a>, Engenharia, Geografia, Esporte, Mobilidade, UFSM, UNESP</td>
             <td colspasn = 4><img src="../assets/star3.png" height="15"></td>
           </tr>
           <tr>
@@ -287,4 +287,57 @@ export default {
 
   }
   
+  body {
+  font: 12px/1.5 'PT Sans', serif;
+  margin: 25px;
+}
+
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: visible; 
+  padding: 0;
+}
+
+.tags li {
+  float: left; 
+}
+
+.tag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #999;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag::before {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  content: '';
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px;
+}
+
+.tag::after {
+  background: #fff;
+  border-bottom: 13px solid transparent;
+  border-left: 10px solid #eee;
+  border-top: 13px solid transparent;
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
 </style>
