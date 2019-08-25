@@ -11,7 +11,7 @@
               Conectando empresas à pesquisa e extensão
               </h1>
               <div class="subheading mb-4 text-center">
-              Construa mais com o incentivo privado
+              Construa mais junto com o incentivo privado
               </div>
               <div class="">
                 <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large blue lighten-2">
@@ -99,96 +99,15 @@
         </div>
       </section>
       <section id="white">
-        <div class="v-parallax" style="height: 800px;">
+        <div class="v-parallax" style="height: 400px;">
           <div class="v-parallax__content">
             <div class="layout column align-center justify-center">
               <h1 class="black--text mb-2 display-1 text-center">
-              Empresas que patrocinam projetos
+              Nossos maiores patrocinadores
               </h1>
-                <v-container class="grey lighten-5">
-                  <v-row
-                    class="mb-6"
-                    no-gutters
-                  >
-                    <v-col md="1">
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa1_logo.png">
-                      </v-card>
-                    </v-col>
-                    <v-col
-                      md="4"
-                      offset-md="3"
-                    >
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa2_logo.png">
-                      </v-card>
-                    </v-col>
-                  </v-row>
-                  <v-col
-                      md="1"
-                      offset-md="3"
-                    >
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa6_logo.png">
-                      </v-card>
-                    </v-col>
-                  </v-row>
-                  <v-row
-                    class="mb-6"
-                    no-gutters
-                  >
-                    <v-col
-                      md="3"
-                      offset-md="3"
-                    >
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa3_logo.png">
-                      </v-card>
-                    </v-col>
-                    <v-col
-                      md="3"
-                      offset-md="3"
-                    >
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa4_logo.png">
-                      </v-card>
-                    </v-col>
-                  </v-row>
-                  <v-row no-gutters>
-                    <v-col
-                      md="6"
-                      offset-md="3"
-                    >
-                      <v-card
-                        class="pa-2"
-                        outlined
-                        tile
-                      >
-                        <img src="./assets/empresa5_logo.png">
-                      </v-card>
-                    </v-col>
-                  </v-row>
-                </v-container>
+              <center>
+                <img src="./assets/empresas_logo.png">
+              </center>
             </div>
           </div>
         </div>
