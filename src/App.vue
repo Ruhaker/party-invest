@@ -3,7 +3,7 @@
     <v-content>
       <NavBar/>
       <section>
-        <div class="v-parallax" style="height: 600px;">
+        <div class="v-parallax" style="height: 600px; padding-bottom: 50px ">
           <div class="v-parallax__content">
             <img src="./assets/logo.png" alt="logo.png" id="logo">
             <div class="layout white--text column align-center justify-center">
@@ -16,12 +16,13 @@
               <div class="">
                 <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large blue lighten-2">
                 <span class="v-btn__content">
-                Para financiados
+                Registre-se como financiad@
                 </span>
                 </a>
+                &nbsp;
                 <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large blue lighten-2">
                 <span class="v-btn__content">
-                Para financiadores
+                Registre-se como financiad@r
                 </span>
                 </a>
               </div>
@@ -140,8 +141,7 @@ export default {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
-    height: 40%;
+
   }
   
 </style>

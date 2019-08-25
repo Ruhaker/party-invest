@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-toolbar>
-      <v-toolbar-title>party-invest</v-toolbar-title>
+      <v-toolbar-title>party invest</v-toolbar-title>
 
       <div class="flex-grow-1"></div>
 
