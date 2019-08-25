@@ -315,7 +315,7 @@ export default {
     background-image: url('../assets/search.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
-    width: 79.73%;
+    width: 80%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
     border: 1px solid #ddd;
