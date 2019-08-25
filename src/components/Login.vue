@@ -20,7 +20,7 @@
                 ></v-text-field>
               </v-card-text>
               <v-card-actions>
-                <router-link to="/">
+                <router-link to="/profile">
                   <v-btn text>Enter</v-btn>
                 </router-link>
               </v-card-actions>
