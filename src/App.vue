@@ -89,10 +89,10 @@
         <div class="v-parallax" style="height: 800px; padding-bottom: 200px; padding-top: 200px">
           <div class="v-parallax__content">
             <center>
-            <div class="headline">
+            <h1 class="white--text mb-2 display-1 text-center">
               Como funciona?
-            </div>
-            <div style="padding-bottom: 50px"></div>
+              </h1>
+            <div style="padding-bottom: 30px"></div>
             <iframe width="800" height="600" src="https://www.youtube.com/embed/dtRimW6_U_4"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </center>
           </div>
