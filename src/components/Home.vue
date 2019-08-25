@@ -22,7 +22,7 @@
                 &nbsp;
                 <a href="#" class="mt-12 v-btn v-btn--contained theme--dark v-size--large green lighten-2">
                 <span class="v-btn__content">
-                Registre-se como financiad@r
+                Registre-se como financiador(a)
                 </span>
                 </a>
               </div>
