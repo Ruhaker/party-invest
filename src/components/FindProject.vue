@@ -19,197 +19,139 @@
         <table id="myTable">
 
         <tr class="header">
-            <th style="width:50%;">Projeto</th>
+            <th style="width:25%;">Projeto</th>
             <th style="width:60%;">Tags</th>
             <th style="width:10%;">Investido</th>
         </tr>
-      
-          <tr>
-              <td>Análise de biomas do sul</td>
-              <td>Ciência, Biologia, UFSM</td>
-              <td>77% </td>
-          </tr>
-          <tr>
-              <td>SeqPy: algoritmo sequenciador de genomas</td>
-              <td>Ciência, Biologia, Computação, UFRJ</td>
-              <td>110% </td>
-          </tr>
-        <tr>
-              <td>Otmização Combinatória: treoria, formulação e aplicações</td>
-              <td>Ciência, Computação, Matemática, USP</td>
-              <td>0% </td>
-          </tr>
-          <tr>
-              <td>Desmistificação do apredizado de máquina</td>
-              <td>Ciência, Computação, Machine Learning, USP</td>
-              <td>130% </td>
-          </tr>
-        
-        <tr>
-              <td>Seletiva USP Maratona de Programação</td>
-              <td>Extensão, Evento, Competição, USP</td>
-              <td>90% </td>
-          </tr>
-          <tr>
-              <td>Club de Foguetes </td>
-              <td>Extensão,  Competição, UFABC</td>
-              <td>75% </td>
-          </tr>
-          <tr>
-              <td>Corrida Universitária</td>
-              <td>Extensão, Saúde, Sports, UFJF</td>
-              <td>42% </td>
-          </tr>
-        <tr>
-              <td>Simulação ONU</td>
-              <td>Extensão, Relações Internacionais, Simulação, ONU, UFPE</td>
-              <td>33% </td>
-          </tr>
-        <tr>
-              <td>Cursinho Popular</td>
-              <td>Educação, Social, UFRJ</td>
-              <td>19% </td>
-          </tr>
-
-        <tr>
-              <td>Estudo de Células de engergia baseadas em hidrogênio</td>
-              <td>Ciência, Energias Alternativas, Sustentável, UFF</td>         
-              <td>52% </td>
-          </tr>
-          <tr>
-              <td>Workshop de HTML</td>
-              <td>Educação, Computação, Workshop, HTML, Web Devopment, UNIRIO</td>
-              <td>4% </td>
-          </tr>
           <tr>
           <td>Análise probabiliśitica de eventos fatais</td>
-          <td>Ciência, Geografia, Simulação, Computação, Física, UNICAMP, UFF</td>
-          <td>92%</td>
+          <td><p class="tag">IoT</p> <p class="tag">Desenvolvimento</p> <p class="tag">Mobilidade</p> <p class="tag">Esporte</p> <p class="tag">Machine learning</p> <p class="tag">UFPR <p class="tag">UFSM</p> </p></td>
+          <td>16%</td>
         </tr>
         <tr>
           <td>IoT acessível e democrático</td>
-          <td>IoT, Saúde, Python, Engenharia, C++, UFCE, UFMG</td>
-          <td>90%</td>
-        </tr>
-        <tr>
-          <td>Educação Popular Acessível e Democrática</td>
-          <td>Competição, Machine learning, Arte, C, Ciência, UNESP, UFMA</td>
-          <td>61%</td>
-        </tr>
-        <tr>
-          <td>Camapnha de Vacinação</td>
-          <td>C, Engenharia, Doenças, Física, Simulação, UFSM, UFCE</td>
-          <td>49%</td>
-        </tr>
-        <tr>
-          <td>Proteínas, Açucares e Gorduras</td>
-          <td>Extensão, Simulação, IoT, Octave, Evento, UFF, UFF</td>
-          <td>57%</td>
-        </tr>
-        <tr>
-          <td>Reformulação da sada de computação do CCM</td>
-          <td>Matemática, IoT, Arte, Octave, Simulação, UFF, UFSM</td>
-          <td>27%</td>
-        </tr>
-        <tr>
-          <td>Congresso Paulo Leal Ferreira de Física</td>
-          <td>Python, Desenvolvimento, Ciência, Computação, Arte, UFRJ, UNESP</td>
-          <td>72%</td>
-        </tr>
-        <tr>
-          <td>Grafeno: material do futuro</td>
-          <td>Ciência, Saúde, Matemática, C++, Física, UFAM, UFAM</td>
-          <td>34%</td>
-        </tr>
-        <tr>
-          <td>Novas ligas metálicas para uso industrial</td>
-          <td>Doenças, Octave, C++, Ciência, Simulação, UFCE, UFAM</td>
-          <td>28%</td>
-        </tr>
-        <tr>
-          <td>Cantina popular</td>
-          <td>Ciência, Psicologia, Desenvolvimento, Python, Saúde, UFCE, UFPE</td>
-          <td>8%</td>
-        </tr>
-        <tr>
-          <td>Comprar Cafezinho</td>
-          <td>Competição, Física, Matemática, C++, Geografia, UFPE, UFF</td>
+          <td><p class="tag">Psicologia</p> <p class="tag">Desenvolvimento</p> <p class="tag">IoT</p> <p class="tag">Python</p> <p class="tag">Geografia</p> <p class="tag">UFSM <p class="tag">UFPR</p> </p></td>
           <td>1%</td>
         </tr>
         <tr>
-          <td>Financiar nova sala para o Carlinhos</td>
-          <td>Engenharia, Física, Octave, História, Doenças, USP, UFSCAR</td>
-          <td>71%</td>
-        </tr>
-        <tr>
-          <td>Eu amo hackaton</td>
-          <td>IoT, Arte, Física, Machine learning, Engenharia, UNICAMP, UFMG</td>
-          <td>24%</td>
-        </tr>
-        <tr>
-          <td>Análise probabiliśitica de eventos fatais</td>
-          <td>Saúde, Psicologia, Desenvolvimento, Educação, História, UFCE, UNICAMP</td>
-          <td>74%</td>
-        </tr>
-        <tr>
-          <td>IoT acessível e democrático</td>
-          <td>Evento, Octave, História, Química, Competição, UFPR, UFAM</td>
-          <td>17%</td>
-        </tr>
-        <tr>
           <td>Educação Popular Acessível e Democrática</td>
-          <td>Mobilidade, Saúde, Machine learning, Psicologia, Química, UFPE, UFSM</td>
-          <td>31%</td>
+          <td><p class="tag">IoT</p> <p class="tag">Doenças</p> <p class="tag">Biologia</p> <p class="tag">Matemática</p> <p class="tag">C</p> <p class="tag">UNESP <p class="tag">UFPE</p> </p></td>
+          <td>30%</td>
         </tr>
         <tr>
           <td>Camapnha de Vacinação</td>
-          <td>Educação, Física, C, Maratona, Esporte, USP, USP</td>
-          <td>90%</td>
+          <td><p class="tag">IoT</p> <p class="tag">Maratona</p> <p class="tag">Esporte</p> <p class="tag">Educação</p> <p class="tag">Física</p> <p class="tag">UFRJ <p class="tag">UFRJ</p> </p></td>
+          <td>63%</td>
         </tr>
         <tr>
           <td>Proteínas, Açucares e Gorduras</td>
-          <td>Octave, Saúde, Educação, Evento, Doenças, UFSM, UFCE</td>
-          <td>36%</td>
+          <td><p class="tag">Educação</p> <p class="tag">Computação</p> <p class="tag">IoT</p> <p class="tag">História</p> <p class="tag">Doenças</p> <p class="tag">UFCE <p class="tag">UFSCAR</p> </p></td>
+          <td>40%</td>
         </tr>
         <tr>
           <td>Reformulação da sada de computação do CCM</td>
-          <td>História, Python, Maratona, Engenharia, Doenças, UFAM, UFF</td>
-          <td>44%</td>
+          <td><p class="tag">Competição</p> <p class="tag">Doenças</p> <p class="tag">Esporte</p> <p class="tag">História</p> <p class="tag">Evento</p> <p class="tag">UFRJ <p class="tag">UNESP</p> </p></td>
+          <td>49%</td>
         </tr>
         <tr>
           <td>Congresso Paulo Leal Ferreira de Física</td>
-          <td>Esporte, C++, Saúde, Biologia, Mobilidade, UFCE, UFMG</td>
-          <td>20%</td>
+          <td><p class="tag">Extensão</p> <p class="tag">Desenvolvimento</p> <p class="tag">Psicologia</p> <p class="tag">Octave</p> <p class="tag">Competição</p> <p class="tag">UFRJ <p class="tag">UFSM</p> </p></td>
+          <td>81%</td>
         </tr>
         <tr>
           <td>Grafeno: material do futuro</td>
-          <td>Octave, Engenharia, Mobilidade, Doenças, Maratona, UFRJ, UFSM</td>
-          <td>89%</td>
+          <td><p class="tag">Octave</p> <p class="tag">Machine learning</p> <p class="tag">Maratona</p> <p class="tag">Matemática</p> <p class="tag">Engenharia</p> <p class="tag">UFF <p class="tag">UFAM</p> </p></td>
+          <td>11%</td>
         </tr>
         <tr>
           <td>Novas ligas metálicas para uso industrial</td>
-          <td>Esporte, Química, Evento, Extensão, Biologia, UNICAMP, UFSM</td>
-          <td>36%</td>
+          <td><p class="tag">Psicologia</p> <p class="tag">Matemática</p> <p class="tag">Extensão</p> <p class="tag">Esporte</p> <p class="tag">Octave</p> <p class="tag">UFPE <p class="tag">UFCE</p> </p></td>
+          <td>73%</td>
         </tr>
         <tr>
           <td>Cantina popular</td>
-          <td>Maratona, Engenharia, C++, Simulação, Arte, UFSCAR, UFCE</td>
-          <td>82%</td>
+          <td><p class="tag">Computação</p> <p class="tag">Psicologia</p> <p class="tag">História</p> <p class="tag">Octave</p> <p class="tag">Desenvolvimento</p> <p class="tag">UNESP <p class="tag">UFCE</p> </p></td>
+          <td>3%</td>
         </tr>
         <tr>
           <td>Comprar Cafezinho</td>
-          <td>Evento, Arte, Saúde, Biologia, Doenças, UFCE, UFAM</td>
-          <td>7%</td>
+          <td><p class="tag">Machine learning</p> <p class="tag">Octave</p> <p class="tag">Maratona</p> <p class="tag">Extensão</p> <p class="tag">Python</p> <p class="tag">UFPR <p class="tag">UNICAMP</p> </p></td>
+          <td>21%</td>
         </tr>
         <tr>
           <td>Financiar nova sala para o Carlinhos</td>
-          <td>IoT, Química, Maratona, Engenharia, Octave, UFF, UFPE</td>
-          <td>31%</td>
+          <td><p class="tag">Química</p> <p class="tag">Geografia</p> <p class="tag">Educação</p> <p class="tag">Competição</p> <p class="tag">Machine learning</p> <p class="tag">UFSM <p class="tag">UFMA</p> </p></td>
+          <td>28%</td>
         </tr>
         <tr>
           <td>Eu amo hackaton</td>
-          <td>Educação, Extensão, Competição, Ciência, Doenças, UFMG, UFPR</td>
-          <td>81%</td>
+          <td><p class="tag">Extensão</p> <p class="tag">Ciência</p> <p class="tag">Educação</p> <p class="tag">Engenharia</p> <p class="tag">C</p> <p class="tag">UFF <p class="tag">UFSM</p> </p></td>
+          <td>86%</td>
+        </tr>
+        <tr>
+          <td>Análise probabiliśitica de eventos fatais</td>
+          <td><p class="tag">Geografia</p> <p class="tag">Mobilidade</p> <p class="tag">IoT</p> <p class="tag">Simulação</p> <p class="tag">História</p> <p class="tag">UFSCAR <p class="tag">UFAM</p> </p></td>
+          <td>16%</td>
+        </tr>
+        <tr>
+          <td>IoT acessível e democrático</td>
+          <td><p class="tag">IoT</p> <p class="tag">Machine learning</p> <p class="tag">Maratona</p> <p class="tag">História</p> <p class="tag">Química</p> <p class="tag">USP <p class="tag">UFAM</p> </p></td>
+          <td>47%</td>
+        </tr>
+        <tr>
+          <td>Educação Popular Acessível e Democrática</td>
+          <td><p class="tag">Engenharia</p> <p class="tag">Saúde</p> <p class="tag">Psicologia</p> <p class="tag">Mobilidade</p> <p class="tag">Física</p> <p class="tag">UFRJ <p class="tag">UFRJ</p> </p></td>
+          <td>71%</td>
+        </tr>
+        <tr>
+          <td>Camapnha de Vacinação</td>
+          <td><p class="tag">Física</p> <p class="tag">Doenças</p> <p class="tag">Competição</p> <p class="tag">Desenvolvimento</p> <p class="tag">Python</p> <p class="tag">UFSCAR <p class="tag">UFSM</p> </p></td>
+          <td>0%</td>
+        </tr>
+        <tr>
+          <td>Proteínas, Açucares e Gorduras</td>
+          <td><p class="tag">Competição</p> <p class="tag">Python</p> <p class="tag">Doenças</p> <p class="tag">C++</p> <p class="tag">Engenharia</p> <p class="tag">UNICAMP <p class="tag">UNESP</p> </p></td>
+          <td>75%</td>
+        </tr>
+        <tr>
+          <td>Reformulação da sada de computação do CCM</td>
+          <td><p class="tag">Mobilidade</p> <p class="tag">Machine learning</p> <p class="tag">Geografia</p> <p class="tag">Matemática</p> <p class="tag">Educação</p> <p class="tag">UFSCAR <p class="tag">UFSCAR</p> </p></td>
+          <td>8%</td>
+        </tr>
+        <tr>
+          <td>Congresso Paulo Leal Ferreira de Física</td>
+          <td><p class="tag">C++</p> <p class="tag">Desenvolvimento</p> <p class="tag">Evento</p> <p class="tag">Simulação</p> <p class="tag">Doenças</p> <p class="tag">UFCE <p class="tag">USP</p> </p></td>
+          <td>80%</td>
+        </tr>
+        <tr>
+          <td>Grafeno: material do futuro</td>
+          <td><p class="tag">Doenças</p> <p class="tag">Competição</p> <p class="tag">Simulação</p> <p class="tag">Biologia</p> <p class="tag">Arte</p> <p class="tag">UFSM <p class="tag">UFPE</p> </p></td>
+          <td>94%</td>
+        </tr>
+        <tr>
+          <td>Novas ligas metálicas para uso industrial</td>
+          <td><p class="tag">Evento</p> <p class="tag">Desenvolvimento</p> <p class="tag">Ciência</p> <p class="tag">C</p> <p class="tag">Doenças</p> <p class="tag">UFPR <p class="tag">UFCE</p> </p></td>
+          <td>52%</td>
+        </tr>
+        <tr>
+          <td>Cantina popular</td>
+          <td><p class="tag">Machine learning</p> <p class="tag">Mobilidade</p> <p class="tag">Desenvolvimento</p> <p class="tag">Engenharia</p> <p class="tag">Evento</p> <p class="tag">UFAM <p class="tag">UFMA</p> </p></td>
+          <td>17%</td>
+        </tr>
+        <tr>
+          <td>Comprar Cafezinho</td>
+          <td><p class="tag">Ciência</p> <p class="tag">História</p> <p class="tag">Física</p> <p class="tag">Arte</p> <p class="tag">Matemática</p> <p class="tag">UFRJ <p class="tag">UFSM</p> </p></td>
+          <td>93%</td>
+        </tr>
+        <tr>
+          <td>Financiar nova sala para o Carlinhos</td>
+          <td><p class="tag">C++</p> <p class="tag">Mobilidade</p> <p class="tag">Evento</p> <p class="tag">Extensão</p> <p class="tag">Esporte</p> <p class="tag">UFCE <p class="tag">UFF</p> </p></td>
+          <td>5%</td>
+        </tr>
+        <tr>
+          <td>Eu amo hackaton</td>
+          <td><p class="tag">C++</p> <p class="tag">Esporte</p> <p class="tag">Maratona</p> <p class="tag">Desenvolvimento</p> <p class="tag">Ciência</p> <p class="tag">UFSM <p class="tag">USP</p> </p></td>
+          <td>5%</td>
         </tr>
       </table>
       </section>
