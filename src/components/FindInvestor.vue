@@ -7,14 +7,14 @@
           <div class="v-parallax__content">
             <div class="layout white--text column align-center justify-center">
               <h1 class="white--text mb-2 display-1 text-center">
-              Encontre um investimento
+              Encontre um investidor(a)
               </h1>
             </div>
           </div>
         </div>
       </section>
       <section id="white">
-        <input type="text" id="myInput" onkeyup="Search()" placeholder="Procure por tags..." title="Digite uma tag">
+        <input type="text" id="myInput" @keyup="Search()" placeholder="Procure por tags..." title="Digite uma tag">
         <button type="button" id="myButton" v-on:click="SearchMe()">Filtre pelas minhas tags!</button>
         <table id="myTable">
           <tr class="header">
@@ -155,16 +155,6 @@ import NavBar from './NavBar';
 import Footer from './Footer';
 
 
-export default {
-  name: 'FindInvestor',
-  components: {
-    NavBar,
-    Footer
-  },
-  data: () => ({
-    //
-  }),
-};
 
 function Search() {
   var input, filter, table, tr, td, i, j, txtValue, bool;
@@ -221,6 +211,22 @@ function SearchMe() {
   }
 }
 
+
+export default {
+  name: 'FindInvestor',
+  components: {
+    NavBar,
+    Footer
+  },
+  methods: {
+    Search,
+    SearchMe
+  },
+  data: () => ({
+    //
+  }),
+};
+
 </script>
 
 <style>
@@ -249,7 +255,7 @@ function SearchMe() {
 
   #myTable {
     border-collapse: collapse;
-    width: 90%;
+    width: 100%;
     border: 1px solid #ddd;
     font-size: 18px;
   }
