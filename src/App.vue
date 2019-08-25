@@ -47,51 +47,45 @@
                   <div class="flex xs12 md4">
                     <div class="transparent v-card v-card--flat v-sheet theme--light">
                       <div class="v-card__text text-center">
-                        <i aria-hidden="true" class="v-icon notranslate blue--text text--lighten-2 mdi mdi-palette theme--light" style="font-size: 40px;"></i>
+                        <i aria-hidden="true" class="v-icon notranslate blue--text text--lighten-2 mdi mdi-flash theme--light" style="font-size: 40px;"></i>
                       </div> 
                       <div primary-title="" class="v-card__title layout justify-center">
                         <div class="headline text-center">
-                        Material Design
+                        Facilidade
                         </div>
                       </div>
                       <div class="v-card__text">
-                        Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                        Em poucos passos você se registra e seus projetos serão enviados para investidores que pensam como você. Utilize as tags para classficar seu projetos e converse com os investidores que mais apoiam!
                       </div>
                     </div>
                   </div> 
                   <div class="flex xs12 md4">
                     <div class="transparent v-card v-card--flat v-sheet theme--light">
                       <div class="v-card__text text-center">
-                        <i aria-hidden="true" class="v-icon notranslate blue--text text--lighten-2 mdi mdi-flash theme--light" style="font-size: 40px;"></i>
+                        <img src="assets/transparencia.png">
                       </div> 
                       <div primary-title="" class="v-card__title layout justify-center">
                         <div class="headline">
-                          Fast development
+                          Transparência
                         </div>
                       </div> 
                       <div class="v-card__text">
-                        Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                        Administre e verba e declare gastos de forma simples e prática! Com nossa interface os gráficos são gerados em tempo real e as notas fiscais ficam armazenadas na nuvem, assim todos posdem acompanhar os gastos e resultados de forma públia e transparente.
                       </div>
                     </div>
                   </div> 
                   <div class="flex xs12 md4">
                     <div class="transparent v-card v-card--flat v-sheet theme--light">
                       <div class="v-card__text text-center">
-                        <i aria-hidden="true" class="v-icon notranslate blue--text text--lighten-2 mdi mdi-flash theme--light" style="font-size: 40px;"></i>
+                        <i aria-hidden="true" class="v-icon notranslate blue--text text--lighten-2 mdi mdi-palette theme--light" style="font-size: 40px;"></i>
                       </div> 
                       <div primary-title="" class="v-card__title layout justify-center">
                         <div class="headline">
-                          Fast development
+                          Open Source
                         </div>
                       </div> 
                       <div class="v-card__text">
-                        Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                        Uma plataforma de código aberto, e toda a comunidade, incluindo você, pode contribuir com o desenvolvimento do projeto.
                       </div>
                     </div>
                   </div>
