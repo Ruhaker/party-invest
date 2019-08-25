@@ -1,30 +1,30 @@
+/* eslint-disable */
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import App from './App.vue'
 import vuetify from './plugins/vuetify'
-import Router from 'vue-router';
+import VueRouter from 'vue-router';
+import Home from './components/Home';
+import Profile from './components/Profile.vue';
 
-Vue.config.productionTip = false
+// import routes from './routes';
+
+// Vue.config.productionTip = false
+Vue.use(Vuetify)
+Vue.use(VueRouter)
+
+const routes = [
+    { path: '/', component: Home },
+    { path: '/profile', component: Profile },
+];
+console.log('passou aqui')
+const router = new VueRouter({routes});
+	
 
 new Vue({
   vuetify,
+  router,
   render: h => h(App)
 }).$mount('#app')
 
-Vue.use(Vuetify)
-Vue.use(Router)
 
-export default new Router({
-routes: 
-	[
-	{
-		path: '/',
-		name: 'app'
-	},
-	{
-		path: '/profile',
-		name: 'profile',
-		component: Profile
-	}
-	]
-})
