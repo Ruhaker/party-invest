@@ -8,7 +8,7 @@
       <v-toolbar-items>
         <v-btn text to="/FindInvestor">Patrocinadores</v-btn>
         <v-btn text to="/FindProject">Projetos</v-btn>
-        <div> cm-admin </div>
+        <v-btn >Ciências M.</v-btn>
         <template v-if="$vuetify.breakpoint.smAndUp">
           <v-btn icon to="/">
             <v-icon>mdi-logout</v-icon>
