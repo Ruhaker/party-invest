@@ -11,11 +11,10 @@
   "dependencies": {
     "cli-service": "^0.0.2",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10",
-    "vuetify": "^2.0.10",
     "file-loader": "^4.2.0",
     "vue": "^2.6.10",
-    "vue-loader": "^15.7.1"
+    "vue-loader": "^15.7.1",
+    "vuetify": "^2.0.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
@@ -29,7 +28,6 @@
     "vue-cli-plugin-vuetify": "^0.6.3",
     "vue-template-compiler": "^2.6.10",
     "vuetify-loader": "^1.2.2",
-    "vue-template-compiler": "^2.6.10",
     "webpack-cli": "^3.3.7"
   },
   "eslintConfig": {
