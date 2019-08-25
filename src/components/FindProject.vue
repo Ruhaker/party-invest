@@ -2,6 +2,7 @@
   <v-app>
     <v-content>
       <NavBar/>
+      <Footer/>
     </v-content>
   </v-app>
      
