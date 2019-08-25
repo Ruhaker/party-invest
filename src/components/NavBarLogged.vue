@@ -26,9 +26,13 @@
               :key="index"
               v-onclick=""
             >
-            <v-btn text to="/IncludeProjectLogged">
-              <v-list-item-title>{{ item.title }}</v-list-item-title>
-            </v-btn>
+              <v-btn text to="/IncludeProjectLogged">
+                <v-list-item-title>{{ item.title1 }}</v-list-item-title>
+                <v-btn text to="/RegisterProject">
+                  <v-list-item-title>{{ item.title0 }}</v-list-item-title>
+                </v-btn>
+              </v-btn>
+              
             </v-list-item>
           </v-list>
         </v-menu>
@@ -51,9 +55,10 @@ export default {
   name: 'vuetify',
   data: () => ({
       items: [
-        { title: 'Meus projetos' },
-        { title: 'Incluir Projeto' },
-        { title: 'Perfil' }
+        { title1: 'Meus projetos' },
+        { title1: 'Perfil' },
+        { title1: 'Feedbacks' },
+        { title0: 'Incluir Projeto' }
       ],
     }),
 }

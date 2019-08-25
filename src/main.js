@@ -14,7 +14,8 @@ import IncludeProject from './components/IncludeProject.vue'
 import HomeLogged from './components/HomeLogged';
 import FindInvestorLogged from './components/FindInvestorLogged.vue';
 import FindProjectLogged from './components/FindProjectLogged.vue';
-import IncludeProjectLogged from './components/IncludeProjectLogged.vue'
+import IncludeProjectLogged from './components/IncludeProjectLogged.vue';
+import RegisterProject from './components/RegisterProject.vue'
 
 // import routes from './routes';
 
@@ -33,7 +34,8 @@ const routes = [
     { path: '/FindProjectLogged', component: FindProjectLogged },
     { path: '/Sponsors', component: Sponsors },
     { path: '/IncludeProject', component: IncludeProject },
-    { path: '/IncludeProjectLogged', component: IncludeProjectLogged }
+    { path: '/IncludeProjectLogged', component: IncludeProjectLogged },
+    { path: '/RegisterProject', component: RegisterProject }
 			
 ];
 console.log('passou aqui')
