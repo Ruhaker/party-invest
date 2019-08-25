@@ -1,14 +1,14 @@
 <template>
   <div>
     <v-toolbar>
-      <v-btn to="/">
+      <v-btn to="/Logged">
         <v-toolbar-title>party invest</v-toolbar-title>
       </v-btn>
       <div class="flex-grow-1"></div>
 
       <v-toolbar-items>
-        <v-btn text to="/FindInvestor">Patrocinadores</v-btn>
-        <v-btn text to="/FindProject">Projetos</v-btn>
+        <v-btn text to="/FindInvestorLogged">Patrocinadores</v-btn>
+        <v-btn text to="/FindProjectLogged">Projetos</v-btn>
 
         <v-menu offset-y>
           <template v-slot:activator="{ on }">
@@ -26,7 +26,7 @@
               :key="index"
               v-onclick=""
             >
-            <v-btn text to="/includeproject">
+            <v-btn text to="/IncludeProjectLogged">
               <v-list-item-title>{{ item.title }}</v-list-item-title>
             </v-btn>
             </v-list-item>
